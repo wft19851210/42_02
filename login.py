@@ -8,7 +8,7 @@
 
 5 mun5=500
 
-6 num6=600
+6 zhangsan
 
 over
 
